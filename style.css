@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+    background: url("../img/тризуб") ;
+    font-family: tahoma;
+    line-height: 1.5;
+    font-size: 18px;
+}
+
+.card {
+    width: 400px;
+    margin: 0 auto;
+    background-color: #2977a1eb;
+    box-shadow: 0 5px 10px #ccc;
+    border-radius: 10px;
+    padding: 20px;
+
+}
+.title {
+   font-size: 50px; 
+    color: #d7d71b;
+}
+.card-photo {
+    display: block;
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    border-radius: 50%;
+}
+.card-title {
+    font-size: 20px;
+    text-align: center;
+    color: #544536;
+    
+}
+.card-text {
+    font-size: 15px;
+}
+.card-subtitle {
+    font-size: 12px;
+    margin: auto 139px;
+    color: black;
+
+}
